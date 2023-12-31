@@ -29,7 +29,7 @@ Here's a representation of a solution:
 ## 3.	Philosopher States:
   •	The state of each philosopher is represented by the state list, where 0 indicates thinking, 1 indicates being hungry, and 2 indicates eating.
   
-  •	Transitions between states are managed to prevent conflicts and ensure that no two adjacent philosophers are eating at the same time.
+  •	Transitions between states are managed to prevent conflicts and ensure that no two adjacent philosophers are eating at the same time..
 
 
 
